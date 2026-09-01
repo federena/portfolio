@@ -3,7 +3,7 @@
     "path": "~/GitHub/portfolio/index.html",
     "project_path": "index.html",
     "type": "html",
-    "hash": "1216035473",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1788303594516.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "68,10",
-        "scrollLine": "49"
+        "cursorPosition": "72,18",
+        "scrollLine": "59"
     },
     "folds": "",
-    "lastKnownWriteTime": 1788304944,
+    "lastKnownWriteTime": 1788305099,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1788304944999,
+    "last_content_update": 1788305099080,
     "read_only": false,
     "read_only_alternatives": []
 }
